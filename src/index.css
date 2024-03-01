@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.checked::after {
+  content: '\2713';
+  color: #fff;
+}

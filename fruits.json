@@ -1,0 +1,9 @@
+{
+  "fruits": [
+    {"title": "Jabłka", "price": 0},
+    {"title": "Banany", "price": 0},
+    {"title": "Pomarańcze", "price": 0},
+    {"title": "Wiśnie", "price": 0},
+    {"title": "Winogrono", "price": 0}
+  ]
+}
